@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Certification:</h2>
 
-- <b>Google IT Support Professional</b>(https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google IT Support Professional</b>(https://www.credly.com/org/coursera/badge/google-cybersecurity-certificate-comptia-security-d)
 
 - <b>Google Cybersecuirty Professional</b>
 
