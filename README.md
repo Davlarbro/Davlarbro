@@ -46,7 +46,7 @@
 
 [twitter]: https://twitter.com/EkowBrown6
 [instagram]: https://www.instagram.com/davidekowbrown/
-[linkedin]: https://linkedin.com/in/David Ekow Brown
+[linkedin]: https://linkedin.com/in/David-Ekow-Brown
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
