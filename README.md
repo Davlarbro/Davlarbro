@@ -1,5 +1,12 @@
 <h1>Hi, I'm David Lartey Brown! <br/><a href="https://github.com/joshmadakor1">IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
+<h2>👨‍💻 Certification:</h2>
+- [Google IT Support Professional]
+- [Google Cybersecuirty Professional]
+- [CompTIA A+ Practice 220-1001 & 220 1002
+- [Google IT Automation With Python]
+- [IBM IT SUupport Professional
+
 <h2>👨‍💻 System Deployment Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
