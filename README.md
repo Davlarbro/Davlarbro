@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Certification:</h2>
 
-- <b>Google IT Support Professional</b>(https://www.credly.com/org/coursera/badge/google-cybersecurity-certificate-comptia-security-d)
+- <b>Google IT Support Professional</b>(https://www.credly.com/earner/earned/badge/4360992b-ba8d-41f0-8325-ad7a9bcfe7cd)
 
-- <b>Google Cybersecuirty Professional</b>
+- <b>Google Cybersecuirty Professional</b>(https://www.credly.com/earner/earned/badge/a74018b8-a12f-4bb5-af60-8bd8353c2617)
 
 - <b>CompTIA A+ Practice 220-1001 & 220 1002</b>
 
-- <b>Google IT Automation With Python</b>
+- <b>Google IT Automation With Python</b>(https://www.credly.com/earner/earned/badge/05b09f24-d269-4c89-84f0-67dfecacc120)
 
-- <b>IBM IT Support Professional</b>
+- <b>IBM IT Support Professional</b>(https://www.credly.com/earner/earned/badge/00a2eb15-724e-45cf-8a4c-f776385de1ed)
 
 <h2>👨‍💻 System Deployment Projects:</h2>
 
