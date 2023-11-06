@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Certification:</h2>
 - <b>Google IT Support Professional</b>
+- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Google Cybersecuirty Professional</b>
 - <b>CompTIA A+ Practice 220-1001 & 220 1002</b>
 - <b>Google IT Automation With Python</b>
