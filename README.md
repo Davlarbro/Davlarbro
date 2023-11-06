@@ -10,7 +10,7 @@
 
 - <b>Google IT Automation With Python</b>
 
-- <b>IBM IT SUupport Professional</b>
+- <b>IBM IT Support Professional</b>
 
 <h2>👨‍💻 System Deployment Projects:</h2>
 
