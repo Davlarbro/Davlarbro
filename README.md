@@ -1,6 +1,7 @@
 <h1>Hi, I'm David Lartey Brown! <br/><a href="https://github.com/joshmadakor1">IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Certification:</h2>
+
 - <b>Google IT Support Professional</b>
 
 - <b>Google Cybersecuirty Professional</b>
