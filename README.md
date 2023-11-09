@@ -12,7 +12,7 @@
 
 - <b>IBM IT Support Professional</b>(https://www.credly.com/earner/earned/badge/00a2eb15-724e-45cf-8a4c-f776385de1ed)
 
-<h2>👨‍💻 System Deployment Projects:</h2>
+<h2>👨‍💻 Update a file through a Python algorithm:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
