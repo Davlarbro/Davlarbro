@@ -12,7 +12,7 @@
 
 - <b>IBM IT Support Professional</b>(https://www.credly.com/earner/earned/badge/00a2eb15-724e-45cf-8a4c-f776385de1ed)
 
-<h2>👨‍💻 Update a file through a Python algorithm:</h2>
+<h2>👨‍💻  IT Infrastructure Upgrade and Migration:</h2>
 
 - <b>access to restricted content is controlled with an allow list of IP addresses. The "allow_list.txt"</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
