@@ -16,7 +16,7 @@
 
 - [IT Infrastructure Upgrade and Migration](https://github.com/Davlarbro/IT-Infrastructure-and-Migration-/tree/main)
 
-- <b>Python</b>
+<h2>👨‍💻 Python:</h2>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
