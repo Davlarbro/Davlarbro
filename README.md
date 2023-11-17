@@ -14,7 +14,7 @@
 
 <h2>👨‍💻  IT Infrastructure Upgrade and Migration:</h2>
 
-- <b>access to restricted content is controlled with an allow list of IP addresses. The "allow_list.txt"</b>
+- [IT Infrastructure Upgrade and Migration](https://github.com/Davlarbro/IT-Infrastructure-and-Migration-/tree/main)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
